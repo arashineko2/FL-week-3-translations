@@ -4,19 +4,19 @@
 translate italian e01s01_48c97c49:
 
     # mc "{size=20}Wake up, sleepyhead.{/size}"
-    mc "{size=20}Wake up, sleepyhead.{/size}"
+    mc "{size=20}Svegliati, dormiglione.{/size}"
 
 # game/code/e01/e01s01.rpy:235
 translate italian e01s01_ae1518b4:
 
     # sy "*Giggles* Oops, sorry."
-    sy "*Giggles* Oops, sorry."
+    sy "*Ride* Oops, scusa."
 
 # game/code/e01/e01s01.rpy:238
 translate italian e01s01_f70df938:
 
     # mc "*Shakes head, amused* You really have the coordination skills of a baby giraffe."
-    mc "*Shakes head, amused* You really have the coordination skills of a baby giraffe."
+    mc "*Muove la testa, divertito* Hai davvero la coordinazione di una giraffa neonata."
 
 # game/code/e01/e01s01.rpy:242
 translate italian e01s01_88129f56:
